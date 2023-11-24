@@ -1,0 +1,5 @@
+.git/
+images/
+module/
+.prettierrc.json
+test/
